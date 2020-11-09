@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PCS_RecyclerView_[0584]"
